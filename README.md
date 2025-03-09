@@ -1,10 +1,10 @@
-## JavaScript Homework: Handling User Input, Data Types, and Arrays
+# JavaScript Homework: Handling User Input, Data Types, and Arrays
 
-# OBJECTIVE:
+## OBJECTIVE:
 
 Create a program that collects and processes student information using functions and arrays. This exercise will test your understanding of functions, data types, user input, arrays, and simple data manipulation.
 
-# INSTRUCTIONS:
+## INSTRUCTIONS:
 
 1. Define a function getUserInfo that:
    Asks the user for their name using prompt.
@@ -28,19 +28,10 @@ Create a program that collects and processes student information using functions
    (Bonus) Shuffles the students before assigning them to teams to ensure variety. (1 point)
    For 10 present students and 3 teams required, logs in the console the teams in the following format:
 
-TEAM 1
-Student 1
-Student 4
-Student 7
-Student 10
+TEAM 1: Student 1, Student 4, Student 7, Student 10
 
-TEAM 2
-Student 2
-Student 5
-Student 8
-TEAM 3
-Student 3
-Student 6
-Student 9
+TEAM 2: Student 2, Student 5, Student 8
+
+TEAM 3: Student 3, Student 6, Student 9
 
 5. Push your work to a personal Git repository and share the link to your repository.
